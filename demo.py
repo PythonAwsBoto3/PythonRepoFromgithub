@@ -3,4 +3,4 @@ print"welcome to jenkins integartion with github"
 print"Thanks for executing"
 #This is a python file
 
-pritn"hi done"
+print"hi done"
